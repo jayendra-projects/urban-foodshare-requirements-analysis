@@ -1,6 +1,7 @@
-# urban-foodshare-requirements-analysis
+# Urban FoodShare – Requirements Analysis & System Modelling
 
 > Requirements analysis project translating stakeholder needs into functional requirements, user stories, acceptance criteria and system models for a digital food-sharing platform.
+
 
 ## Project Snapshot
 
