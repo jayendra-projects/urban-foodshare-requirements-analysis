@@ -1,5 +1,5 @@
 # urban-foodshare-requirements-analysis
-Requirements analysis project translating stakeholder needs into functional requirements, user stories, acceptance criteria and system models for a digital food-sharing platform.
+> Requirements analysis project translating stakeholder needs into functional requirements, user stories, acceptance criteria and system models for a digital food-sharing platform.
 
 ## Project Snapshot
 
